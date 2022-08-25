@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile! I'm a full stack web developer and a software engineer. I'm currently a freelance software engineer from NYC. I want to become a cybersecurity. Cybersecurity is really challenging and it push me to my limit which make me able to gain more knowledgede. People that created a crypter, anti-malware, reverse engineer tools, and a bunch of security tools, they make me see thing differently and inspire me to learn more.<br><br>
+Welcome to my profile! I'm a full stack web developer and a software engineer. I'm currently a freelance software engineer from NYC.<br><br>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zDestinate&show_icons=true&bg_color=ffffff&title_color=4a80ff&text_color=121212&icon_color=5058cc&hide_border=true&hide_title=true)
