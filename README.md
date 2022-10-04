@@ -7,6 +7,8 @@ Welcome to my profile! I'm a full stack web developer and a software engineer. I
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zDestinate&title_color=4a80ff&text_color=121212&icon_color=5058cc&bg_color=ffffff&hide_border=true&layout=compact&langs_count=8)
 
+![](https://komarev.com/ghpvc/?username=zDestinate&color=blue&style=flat-square)
+
 
 <!--
 **zDestinate/zDestinate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
