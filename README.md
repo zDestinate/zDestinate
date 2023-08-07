@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Welcome to my profile! I'm currently a freelance software engineer from NYC.<br><br>
+Welcome to my profile! I'm currently a freelance software engineer from NYC.<br>
+I'm currently working on personal projects.<br><br>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zDestinate&show_icons=true&bg_color=ffffff&title_color=4a80ff&text_color=121212&icon_color=5058cc&hide_border=true&hide_title=true)
@@ -9,6 +10,8 @@ Welcome to my profile! I'm currently a freelance software engineer from NYC.<br>
 
 ![](https://komarev.com/ghpvc/?username=zDestinate&color=blue&style=flat-square)
 
+<br><br>
+<b>Note:</b> Stats above are for public repos.
 
 <!--
 **zDestinate/zDestinate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
