@@ -1,7 +1,4 @@
-### Hi there 👋
-
-Welcome to my profile! I'm currently a freelance software engineer from NYC.<br>
-I'm currently working on personal projects.<br><br>
+Just an online profile.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zDestinate&show_icons=true&bg_color=ffffff&title_color=4a80ff&text_color=121212&icon_color=5058cc&hide_border=true&hide_title=true)
